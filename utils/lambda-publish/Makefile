@@ -38,6 +38,7 @@ europe-2:
 asia-1:
 	REGION=ap-east-1 ./publish.sh #Asia Pacific (Hong Kong)
 	REGION=ap-south-1 ./publish.sh #Asia Pacific (Mumbai)
+	REGION=ap-south-2 ./publish.sh #Asia Pacific (Hyderabad)
 	REGION=ap-southeast-1 ./publish.sh #Asia Pacific (Singapore)
 
 asia-2:
